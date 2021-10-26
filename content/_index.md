@@ -12,8 +12,7 @@ teaser_image: "images/store.jpg"
 
 # Menu
 
-{{< gallery-slider dir="/images/menu/" width="750px" height="650px" >}}
-
+{{< carousel items="1" height="650" unit="px" >}}
 
 | Hours     |               |
 |-----------|---------------|
