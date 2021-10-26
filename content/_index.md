@@ -12,9 +12,18 @@ teaser_image: "images/store.jpg"
 
 # Menu
 
-![Prototype Work](images/menu.jpg)
+{{< gallery-slider dir="/images/menu/" width="750px" height="650px" >}}
 
-Interactive menu coming soon...
+
+| Hours     |               |
+|-----------|---------------|
+| Monday    | 7:30AM–9:00PM |
+| Tuesday   | 7:30AM–9:00PM |
+| Wednesday | 7:30AM–9:00PM |
+| Thursday  | 7:30AM–9:00PM |
+| Friday    | 7:30AM–9:00PM |
+| Saturday  | 7:30AM–9:00PM |
+| Sunday    | 7:30AM–2:30PM |
 
 ---
 
